@@ -1,0 +1,1 @@
+/bin is a compatibility link to /usr/bin on this Ubuntu system, so older paths still work. /usr/bin contains many standard commands supplied by the operating system, such as ls and git. /usr/local/bin is intended for locally installed administrator-managed programs, separate from the distribution-managed commands. This separation helps keep custom software organized.

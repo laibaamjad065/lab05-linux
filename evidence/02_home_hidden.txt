@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 11 laibaamjad065 laibaamjad065 4096 Oct 16 06:38 .
+drwxr-xr-x  3 root          root          4096 Sep 13 12:10 ..
+-rw-------  1 laibaamjad065 laibaamjad065  699 Oct  5 12:10 .bash_history
+-rw-r--r--  1 laibaamjad065 laibaamjad065  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 laibaamjad065 laibaamjad065 3771 Feb 13  2026 .bashrc
+drwx------  2 laibaamjad065 laibaamjad065 4096 Sep 13 12:23 .cache
+-rw-rw-r--  1 laibaamjad065 laibaamjad065  190 Oct 16 06:38 .gitconfig
+-rw-------  1 laibaamjad065 laibaamjad065   20 Sep 18 19:22 .lesshst
+drwx------  3 laibaamjad065 laibaamjad065 4096 Sep 18 08:52 .local
+-rw-r--r--  1 laibaamjad065 laibaamjad065  807 Feb 13  2026 .profile
+drwx------  3 laibaamjad065 laibaamjad065 4096 Oct  5 13:31 .ssh
+drwxrwxr-x  3 laibaamjad065 laibaamjad065 4096 Oct  5 14:48 Assignment01
+drwxrwxr-x  3 laibaamjad065 laibaamjad065 4096 Sep 18 19:21 CC_Lab2_Practice
+drwxrwxr-x  3 laibaamjad065 laibaamjad065 4096 Oct  5 12:10 Gitea
+drwxrwxr-x  5 laibaamjad065 laibaamjad065 4096 Oct 16 06:40 lab05-linux
+drwxrwxr-x  3 laibaamjad065 laibaamjad065 4096 Oct  5 17:12 laibaamjad065.github.io
+drwxrwxr-x  2 laibaamjad065 laibaamjad065 4096 Sep 19 05:52 mylab
